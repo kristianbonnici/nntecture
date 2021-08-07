@@ -5,7 +5,7 @@
 import pytest
 
 
-from nntecture import nntecture
+from nntecture import DrawNN
 
 
 @pytest.fixture
