@@ -4,6 +4,7 @@
 
 ![PyPI Version](https://img.shields.io/pypi/v/nntecture)
 ![License](https://img.shields.io/pypi/l/nntecture)
+[![codecov](https://codecov.io/gh/kristianbonnici/nntecture/branch/master/graph/badge.svg?token=1RIKW4RK77)](https://codecov.io/gh/kristianbonnici/nntecture)
 
 **NNtecture** is a Python package for Neural Network architecture visualization.
 
