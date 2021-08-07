@@ -10,7 +10,8 @@ with open('README.md') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
-requirements = [ ]
+with open('requirements.txt') as requirements_file:
+    requirements = requirements_file.read()
 
 test_requirements = ['pytest>=3', ]
 
@@ -19,7 +20,7 @@ setup(
     author_email='kristiandaaniel@gmail.com',
     python_requires='>=3.6',
     classifiers=[
-        'Development Status :: 2 - Pre-Alpha',
+        'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
