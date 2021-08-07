@@ -18,6 +18,7 @@ jobs:
 
     - name: Generate coverage report
       run: |
+        pip install graphviz
         pip install pytest
         pip install pytest-cov
         pytest --cov=./ --cov-report=xml
