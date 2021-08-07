@@ -7,6 +7,6 @@ NNtecture is a package for Neural Network architecture visualization.
 
 __author__ = """Kristian Bonnici"""
 __email__ = 'kristiandaaniel@gmail.com'
-__version__ = '0.1.0'
+__version__ = '1.0.0'
 
 from ._base import DrawNN
