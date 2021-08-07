@@ -136,7 +136,7 @@ class DrawNN:
         return self.graph_object
 
     def save(self,
-             filename='nntecture',
+             filename='nn_tecture',
              output_format='pdf',
              dpi=96.0,
              size='4,4!',
@@ -148,7 +148,7 @@ class DrawNN:
 
         Parameters
         ----------
-        filename : str, default='nntecture'
+        filename : str, default='nn_tecture'
             Name of the file to be saved.
 
         output_format : str, default='pdf'

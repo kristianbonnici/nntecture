@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e38b9360-756f-4a1d-8955-f651c4bc949e" name="Default Changelist" comment="resize image">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="e38b9360-756f-4a1d-8955-f651c4bc949e" name="Default Changelist" comment="+ files">
+      <change afterPath="$PROJECT_DIR$/.coveragerc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nntecture/_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/nntecture/_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_nntecture.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_nntecture.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,28 @@
       <option name="project" value="LOCAL" />
       <updated>1628299110770</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="+ docstring">
+      <created>1628339936843</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1628339936843</updated>
+    </task>
+    <task id="LOCAL-00014" summary="text edit">
+      <created>1628339957666</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1628339957666</updated>
+    </task>
+    <task id="LOCAL-00015" summary="+ files">
+      <created>1628339969598</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1628339969598</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +165,9 @@
     <MESSAGE value="import DrawNN" />
     <MESSAGE value="Add Tutorial" />
     <MESSAGE value="resize image" />
-    <option name="LAST_COMMIT_MESSAGE" value="resize image" />
+    <MESSAGE value="+ docstring" />
+    <MESSAGE value="text edit" />
+    <MESSAGE value="+ files" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ files" />
   </component>
 </project>
