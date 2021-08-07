@@ -1,32 +1,24 @@
-name: Running Code Coverage
-
+name: CodeCov
 on: [push, pull_request]
-
 jobs:
-  build:
-
+  run:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [12.x, 13.x, 14.x, 15.x]
-
+    env:
+      OS: ubuntu-latest
+      PYTHON: '3.9'
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+    - uses: checkout@v2
       with:
-        fetch-depth: 2
+        fetch-depth: ‘2’
 
-    - name: Set up Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
+    - name: Setup Python
+      uses: actions/setup-python@master
       with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Run tests
-      run: npm run test
-
-    - name: Upload coverage to Codecov
+        python-version: 3.7
+    - name: Generate Report
+      run: |
+        pip install coverage
+        coverage run -m unittest
+    - name: Upload Coverage to Codecov
       uses: codecov/codecov-action@v1
+      with:
