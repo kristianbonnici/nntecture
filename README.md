@@ -47,7 +47,7 @@ DrawNN([2, 4, 4, 2]).draw()
   <img src="https://github.com/kristianbonnici/nntecture/blob/master/img/basic_drawing.jpg?raw=true" width="400" />
 </p>
 
-### Built In customization
+### Built In Customization
 
 The capabilities are not limited into this base form. The architecture can be easily customised as demonstrated in below example.
 
@@ -77,7 +77,7 @@ perceptron = DrawNN([2, 1])
 perceptron.draw(graph_label='Perceptron (P)', fillcolor='lightblue', linewidth=4)
 
 # save to file
-perceptron.save(filename='perceptron', format='jpg', size='5,5!', view=True)
+perceptron.save(filename='perceptron', output_format='jpg', size='5,5!', view=True)
 ```
 
 <p align="center">
@@ -86,14 +86,14 @@ perceptron.save(filename='perceptron', format='jpg', size='5,5!', view=True)
 
 ### Advanced Customization Capabilities
 
-Styling your architecture is not limited into the built-in capabilities. In addition, by accessing <code>graph_object</code>, one can further customise the drawing with [graphviz](https://pypi.org/project/graphviz/) (see example below).
+Styling your architecture is not limited into the built-in capabilities. In addition, by accessing <code>graph_object</code>, one can further customise the drawing with [graphviz](https://pypi.org/project/graphviz/) (see example below). For more instructions, see [graphviz documentation](https://graphviz.org/documentation/).
 
 ``` {.sourceCode .python}
 # init
 nn = DrawNN([4, 3, 2, 1])
 nn.draw(direction='UD', fillcolor='blue')
 
-# further customisation
+# further customization
 nn.graph_object.edge_attr["style"] = "setlinewidth(2)"
 nn.graph_object.edge_attr['color'] = 'purple'
 nn.graph_object.graph_attr['bgcolor'] = 'black'
