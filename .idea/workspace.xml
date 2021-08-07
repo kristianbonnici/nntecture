@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e38b9360-756f-4a1d-8955-f651c4bc949e" name="Default Changelist" comment="resize image">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nntecture/_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/nntecture/_base.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wKDT183UwGGqSIZ1gSbkn2TVVE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e38b9360-756f-4a1d-8955-f651c4bc949e" name="Default Changelist" comment="" />
+      <created>1628198391062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628198391062</updated>
+    </task>
+    <task id="LOCAL-00001" summary="perceptron image">
+      <created>1628293635291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628293635291</updated>
+    </task>
+    <task id="LOCAL-00002" summary="basic_drawing image">
+      <created>1628294360677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628294360677</updated>
+    </task>
+    <task id="LOCAL-00003" summary="rnn image">
+      <created>1628294942783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628294942783</updated>
+    </task>
+    <task id="LOCAL-00004" summary="advanced_customization image">
+      <created>1628295813206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628295813206</updated>
+    </task>
+    <task id="LOCAL-00005" summary="import fix">
+      <created>1628297880646</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628297880646</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add requirements.txt">
+      <created>1628297906319</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628297906319</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add DrawNN">
+      <created>1628297952801</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1628297952801</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add requirements">
+      <created>1628298004114</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1628298004115</updated>
+    </task>
+    <task id="LOCAL-00009" summary="import DrawNN">
+      <created>1628298032082</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1628298032082</updated>
+    </task>
+    <task id="LOCAL-00010" summary="import DrawNN">
+      <created>1628298041597</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1628298041597</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add Tutorial">
+      <created>1628298091040</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628298091040</updated>
+    </task>
+    <task id="LOCAL-00012" summary="resize image">
+      <created>1628299110770</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1628299110770</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="perceptron image" />
+    <MESSAGE value="basic_drawing image" />
+    <MESSAGE value="rnn image" />
+    <MESSAGE value="advanced_customization image" />
+    <MESSAGE value="import fix" />
+    <MESSAGE value="add requirements.txt" />
+    <MESSAGE value="add DrawNN" />
+    <MESSAGE value="add requirements" />
+    <MESSAGE value="import DrawNN" />
+    <MESSAGE value="Add Tutorial" />
+    <MESSAGE value="resize image" />
+    <option name="LAST_COMMIT_MESSAGE" value="resize image" />
+  </component>
+</project>
