@@ -104,5 +104,5 @@ nn.graph_object
 ```
 
 <p align="center">
-  <img src="https://github.com/kristianbonnici/nntecture/blob/master/img/advanced_customization.jpg?raw=true" width="200" />
+  <img src="https://github.com/kristianbonnici/nntecture/blob/master/img/advanced_customization.jpg?raw=true" width="300" />
 </p>
