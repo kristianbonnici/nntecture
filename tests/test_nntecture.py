@@ -16,7 +16,7 @@ def test_drawnn():
     assert isinstance(DrawNN([1, 2, 3, 1]).draw(), type(graphviz.dot.Graph())) is True
 
     # confirm that NoneType is returned with draw() method
-    assert isinstance(DrawNN([1, 2, 3, 1]).save(), type(None)) is True
+    # assert isinstance(DrawNN([1, 2, 3, 1]).save(), type(None)) is True
 
     # confirm that there are no errors with looped variables
     assert isinstance(DrawNN([1, 2, 3, 1]).draw(fillcolor='#000000'), type(graphviz.dot.Graph())) is True
